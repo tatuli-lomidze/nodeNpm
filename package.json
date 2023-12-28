@@ -1,0 +1,14 @@
+{
+  "name": "node-npm",
+  "version": "1.0.0",
+  "description": "node-npm-practice",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "author": "TL",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.11.0"
+  }
+}
